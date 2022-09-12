@@ -5,3 +5,9 @@ Based off of buildwithpython's pygame tutorial, this version adds high scores an
 Link to his channel and playlist:
 Playlist: https://www.youtube.com/watch?v=8GF6O6vNXCc&list=PLhTjy8cBISEo3SzET7Fc3-b4miKWp41yX
 Channel: https://www.youtube.com/c/buildwithpython
+
+**************************************
+Controls: 
+Arrow Keys - Left/Right movement
+Space - Shoot laser
+**************************************
